@@ -1,10 +1,11 @@
 # 🏋️‍♂️ Sistema de Reservas de Gimnasio  
+---
 Estudiantes: 
-Christopher Alejandro Madrid Arrazabal #00063824,
-Juan Alberto Bustillo Rodríguez #00099223,
-Hector Ernesto Argueta Constanza #00012424,
-Xavier Ernesto Garcia Villacorta #00014624
-
+- **Christopher Alejandro Madrid Arrazabal #00063824,
+- **Juan Alberto Bustillo Rodríguez #00099223,
+- **Hector Ernesto Argueta Constanza #00012424,
+- **Xavier Ernesto Garcia Villacorta #00014624
+---
 ### Proyecto Administracion de bases de datos — SQL Server + Power BI
 
 Este proyecto implementa un sistema completo de gestión para un gimnasio, incluyendo el manejo de **socios, clases, horarios, inscripciones y pagos**, con **auditoría, seguridad, índices e integración directa con Power BI** para análisis empresarial.
